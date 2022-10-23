@@ -4,6 +4,7 @@
   background-image: url(assets/web3-background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
   overflow: auto;
   text-align: center;
 }
